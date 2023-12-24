@@ -27,9 +27,11 @@ Dự án này là phần thực hành bài tập lớn của nhóm 2 trong môn 
 3. **Pre-trained Models**: Tải và sử dụng các mô hình đã được huấn luyện cho từng loại mô hình.
 
 ## Contributors
-- [Tên của Thành Viên 1](link_profil_thành_viên_1)
-- [Tên của Thành Viên 2](link_profil_thành_viên_2)
-- [Tên của Thành Viên 3](link_profil_thành_viên_3)
+- [Nguyễn Thái Học](link_profil_thành_viên_1)
+- [Bùi Hoàng Tuấn Anh](link_profil_thành_viên_2)
+- [Nguyễn Kiều Duy Ngọc](link_profil_thành_viên_3)
+- [Nguyễn Phước Thọ](link_profil_thành_viên_1)
+- [Nguyễn Viết Xuân](link_profil_thành_viên_2)
 
 ## License
 Thông tin về giấy phép sử dụng dự án.
