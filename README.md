@@ -1,4 +1,4 @@
-# Nhom2_HocMay_CNTT2_-HandwritingRecognition
+# Nhom2_HocMay_CNTT2_HandwritingRecognition
 
 
 ## Mô Tả
